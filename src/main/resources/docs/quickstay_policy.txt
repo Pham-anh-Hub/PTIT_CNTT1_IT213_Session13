@@ -1,0 +1,41 @@
+=== TÀI LIỆU NỘI BỘ KHÁCH SẠN QUICKSTAY HOTEL ===
+
+1. Giới thiệu chung:
+QuickStay Hotel là chuỗi khách sạn nghỉ dưỡng cao cấp 4 sao hàng đầu với không gian sang trọng, hiện đại và tiện nghi.
+Địa chỉ chính: 123 Đường Bờ Biển, Thành phố Đà Nẵng.
+Hotline hỗ trợ: 1900-QUICKSTAY (1900-784257).
+Website: https://quickstay.vn
+
+2. Chính sách Nhận / Trả phòng (Check-in & Check-out):
+- Giờ nhận phòng (Check-in): Từ 14:00 hàng ngày.
+- Giờ trả phòng (Check-out): Trước 12:00 trưa hàng ngày.
+- Nhận phòng sớm (Early Check-in):
+  + Trước 06:00 sáng: Tính 100% giá phòng một đêm.
+  + Từ 06:00 đến 12:00 trưa: Tính 50% giá phòng một đêm.
+- Trả phòng muộn (Late Check-out):
+  + Từ 12:00 đến 18:00: Tính 50% giá phòng một đêm.
+  + Sau 18:00: Tính 100% giá phòng một đêm.
+
+3. Chính sách Hủy phòng & Đổi lịch:
+- Hủy trước 48 giờ so với giờ nhận phòng: Miễn phí hủy phòng 100%.
+- Hủy trong vòng 24 - 48 giờ trước giờ nhận phòng: Tính phí 50% tổng giá trị đơn đặt phòng.
+- Hủy trong vòng 24 giờ hoặc không đến nhận phòng (No-show): Phạt 100% giá trị đêm đầu tiên.
+
+4. Danh mục loại phòng & Tiện ích:
+- Phòng Deluxe Single (Phòng đơn tiêu chuẩn): 1 Giường đơn, sức chứa 1 người lớn, giá từ 800.000 VNĐ/đêm.
+- Phòng Deluxe Double (Phòng đôi cao cấp): 1 Giường đôi King size, sức chứa 2 người lớn, giá từ 1.200.000 VNĐ/đêm.
+- Phòng Executive Suite (Phòng Suite gia đình): 2 Giường đôi, sức chứa 4 người lớn, phòng khách riêng, giá từ 2.500.000 VNĐ/đêm.
+- Tất cả các phòng đều được trang bị: Điều hòa, TV màn hình phẳng, Wifi tốc độ cao miễn phí, tủ lạnh mini, máy sấy tóc và đồ vệ sinh cá nhân cao cấp.
+
+5. Tiện ích & Dịch vụ đi kèm:
+- Buffet sáng miễn phí từ 06:30 đến 09:30 tại Nhà hàng Sunrise (Tầng 2).
+- Hồ bơi vô cực ngoài trời tại tầng thượng (Tầng 15) mở cửa từ 06:00 đến 21:00.
+- Dịch vụ Phòng Gym & Spa hoạt động từ 08:00 đến 22:00.
+- Dịch vụ đưa đón sân bay: Có thu phí (200.000 VNĐ/lượt cho xe 4 chỗ).
+- Cho phép trẻ em dưới 6 tuổi ở cùng cha mẹ miễn phí.
+
+6. Câu hỏi thường gặp (FAQ):
+Q: Khách sạn có hỗ trợ thanh toán bằng thẻ không?
+A: QuickStay Hotel chấp nhận tất cả các loại thẻ thanh toán quốc tế và nội địa (Visa, Mastercard, JCB, Napas, QR Code).
+Q: Có được mang thú cưng vào khách sạn không?
+A: Rất tiếc, nhằm đảm bảo vệ sinh và trải nghiệm chung của tất cả khách hàng, QuickStay Hotel không cho phép mang thú cưng.

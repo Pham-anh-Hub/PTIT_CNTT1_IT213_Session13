@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: quickstay-hotel-chatbot
+
+  datasource:
+    # Cấu hình JDBC URL (mặc định trỏ về localhost nếu chưa thiết lập biến môi trường SPRING_DATASOURCE_URL)
+    # Ví dụ kết nối Supabase: jdbc:postgresql://aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres?sslmode=require
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/postgres}
+    username: ${SPRING_DATASOURCE_USERNAME:postgres}
+    password: ${SPRING_DATASOURCE_PASSWORD:postgres}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+  ai:
+    openai:
+      api-key: ${SPRING_AI_OPENAI_API_KEY:demo-key}
+      chat:
+        options:
+          model: gpt-4o-mini
+    vectorstore:
+      pgvector:
+        initialize-schema: true
+        table-name: vector_store
+        index-type: HNSW
+        dimensions: 1536
+
+server:
+  port: 8080
