@@ -21,9 +21,7 @@ public class RagService {
 
     private final VectorStore vectorStore;
 
-    /**
-     * Nạp và phân tách tài liệu từ đối tượng Resource (File local, Classpath resource, v.v.) vào VectorStore
-     */
+
     public String loadAndSaveDocument(MultipartFile file) {
         try {
             Resource resource = file.getResource();
@@ -42,9 +40,7 @@ public class RagService {
         }
     }
 
-    /**
-     * Tra cứu thông tin tương đồng trong VectorStore theo từ khóa
-     */
+
     public String searchDocument(String keyword) {
         List<Document> documents = vectorStore.similaritySearch(
                 SearchRequest.builder()

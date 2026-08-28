@@ -24,10 +24,7 @@ public class ChatService {
     private final VectorStore vectorStore;
     private final HotelBookingTool hotelBookingTool;
 
-    /**
-     * Xử lý hội thoại Chat RAG & Tool AI cho QuickStay Hotel:
-     * Lưu lịch sử chat theo conversationId, tự động truy vấn similarity search và gọi tool đặt phòng khi đủ điều kiện.
-     */
+
     public ChatResponseDto handleChat(ChatRequest chatRequest) {
         try {
             String conversationId = (chatRequest.getConversationId() != null && !chatRequest.getConversationId().isBlank())
